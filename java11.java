@@ -28,7 +28,7 @@ class Ideone
 	   }
 	   reversedString = reversedString + reverseWord + " ";
 	}
-	System.out.println(str);
+	
 	System.out.println(reversedString);
    }
    
